@@ -1,0 +1,16 @@
+{
+  "version" : "0.1",
+  "name": "parayum pole",
+  "type": "privileged",
+  "description": "ഇംഗ്ലീഷ് - മലയാളം (യൂണീകോഡ്) ഫൊണറ്റിക് ട്രാന്‍സ്‌ലിറ്ററേഷന്‍ ടൂള്‍",
+  "launch_path": "/index.html",
+  "icons": {
+    "60": "/icon60.png",
+    "128": "/icon128.png"
+  },
+  "developer": {
+    "name": "Nandakumar",
+    "url":"http://nandakumar.co.in"
+    }
+
+  }
